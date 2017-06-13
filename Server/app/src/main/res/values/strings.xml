@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">网络测试</string>
+
+    <string name="info">沙盘-服务器-APP 网络测试程序</string>
+
+
+    <string name="btn_test">开始</string>
+    <string name="tw_title">测试返回数据：</string>
+    <string name="tw_ip">服务器IP地址：</string>
+    <string name="tw_port">服务器端口号：</string>
+</resources>
